@@ -1,0 +1,304 @@
+@media(max-width:1409){
+    .main7 #section8 .container .lists .list1{
+        width:30%
+    }
+    .main7 #section8 .container .lists .list2 {
+        width:40%;
+        &a{
+        font-size: 10px;
+        padding: 10px 30px;
+        background-color: aquamarine;
+    }
+}
+.main7 #section8 .container .lists .list2 a{
+    font-size: 10px;
+        padding: 10px 30px;
+        background-color: aquamarine;
+}
+}
+
+
+@media (max-width:1107px){
+    .main4 #section5 .container{
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top:40px ;
+    }
+    .main4 #section5 .container .cont{
+        width: 100%;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    .main4 #section5 .container .row4{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main5 #section6 .container{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main5 #section6 .container .text{
+        width:100%;
+    margin-bottom: 50px;
+    }
+        .main5 #section6 .container .text2{
+            width:100%;}
+    .main4 #section5 .container .row4  .im {
+        padding: 15px;
+        width: 100%;
+        margin-bottom: 30px;
+    } 
+    .main4 #section5 .container .row5{
+        width: 80%;
+        padding-top: 50px;
+    margin: auto;
+    text-align: center;
+    }
+   
+}
+@media (max-width:1322px){
+    .main4 #section5 .container .row6{
+        align-content: flex-end;
+        justify-content: flex-start;
+    }
+    .main6 #section7 .container .photos{
+        flex-wrap: wrap;
+        justify-content:space-around;
+        text-align: center;
+    }
+    .main6 #section7 .container .photos .phleft .im{
+       
+        text-align: center;
+    }
+    .main8 #section9 .container .imgs{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main8 #section9 .container .imgs .im{
+        width:100%;
+    }
+}
+@media (max-width:1228px){
+    .main4 #section5 .container .row7 .steps{
+         flex-wrap: wrap;
+     
+        justify-content:center; 
+    }
+    .main4 #section5 .container .row7 .steps .step{
+        width:35%;
+       padding: 20px 20px;
+       margin: 5px 20px;
+    }
+    .main7 #section8 .container .lists {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main7 #section8 .container .lists .list1{
+        width:100%;
+    }
+    .main7 #section8 .container .lists .list2{
+        width:100%;
+        padding-top: 100px;
+    }
+    .main9 #section10 .container .top{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+}
+@media (max-width:992px){
+    .home #section1 .container{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .home #section1 .container .Hcontent{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .home #section1 .container .Hpic{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .main #section2 .contaner{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main #section2 .contaner .text{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .main #section2 .contaner .table{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .main3 #section4 .container .sy{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .main3 #section4 .container .sy .sy1{
+width:100%
+    }
+    .main3 #section4 .container .sy .but{
+        width:100%;
+        align-items: center;
+        
+    }
+    .main4 #section5 .container .row6{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    } 
+    .main4 #section5 .container .row6 .text{
+        width:100%;
+    }
+    .main4 #section5 .container .row6 .im{
+        width:100%;
+        text-align: center;
+    }
+    .main9 #section10 .container .top .text1{
+        width:100%;
+    }
+    }
+
+@media (max-width:776px){
+    nav .container .row{
+        width: 95%;
+        padding: 0px 15px;
+    }
+    nav .container .row .bar{
+        display: block;
+    }
+    nav .container .row .links{
+        display: none;
+    }
+    nav .container .row .but button{
+        display: none;
+    }
+    nav .container .row {
+       padding: 10px 10px;
+    }
+    .home #section1 .Hcontent{
+        display: block;
+        
+    }
+    .main2 #section3 .contaner{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main2 #section3 .contaner .cont{
+        width: 100%;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main2 #section3 .contaner .row4{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    
+    .main2 #section3 .contaner .row4  .im {
+        
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    
+    /* ================================================ */
+   .main3 #section4 .container{
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top:40px ;
+    }
+    .main3 #section4 .container .cont{
+        width: 100%;
+        margin-bottom: 30px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    .main3 #section4 .container .row4{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    
+    .main3 #section4 .container .row4  .im {
+        padding: 15px;
+        width: 100%;
+        margin-bottom: 30px;
+    } 
+    .main7 #section8 .container .lists .list1{
+        font-size: smaller;
+    }
+    
+}
+@media (max-width:674px){
+    .main4 #section5 .container .row7 .steps .step{
+        width:100%;}
+}
+@media (max-width:576px){
+    nav .container .row{
+        width: 95%;
+        padding: 0px 15px;
+    }
+    .home #section1 .Hcontent .content .row1{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        
+    }
+    nav .container .row .logo{
+        width: 50%;
+        padding-top: 10px;
+    }
+    .home #section1 .container {
+        width:100%;
+    }
+    .home #section1 .Hcontent .content .row3{
+        justify-content: space-between;
+    }
+    
+   
+   
+    .home #section1 .Hcontent .content .row4 .r1 h6{
+        color: rgba(88, 139, 233, 0.722);
+        font-weight: 900;
+      
+    }
+   
+    .main6 #section7 .container .photos .phmid .imd img{
+        width:250px;
+        height: 350px;
+    }
+    /* .home #section1 .Hcontent .content .row4{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    } */
+}
+@media (max-width:485px){
+    .main4 #section5 .container .row6 .im img{
+        width:220px;
+        height:450px ;
+        text-align: center;
+    }
+    .home #section1 .Hcontent .content .row4{
+        flex-wrap: wrap;
+        justify-content: space-between;
+        font-size: larger;
+        padding: 15px 0px;
+       text-align: center;
+        
+    }
+    .home #section1 .Hcontent .content .row4 .r1 {
+        padding: 7px 0px;
+     width: 100%;
+    }
+}
+
+@media (max-width:300px){
+    *{
+        display: none;
+    }
+}
